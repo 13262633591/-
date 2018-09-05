@@ -1,3 +1,9 @@
+#爬获校花网
+# 请求库：requests, selenium（可以驱动浏览器解析渲染CSS和JS，但有性能劣势（有用没用的网页都会加载）；）
+# 解析库：正则，beautifulsoup，pyquery
+# 存储库：文件，MySQL，Mongodb，Redis
+
+
 import re
 import requests
 
